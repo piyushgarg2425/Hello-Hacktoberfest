@@ -62,3 +62,8 @@
 - Place: texas, USA
 - Bio: Software Engineer
 - GitHub: [Githuber](https://github.com/foreverGithub)
+
+#### Name: [triebben](https://github.com/triebben)
+- Place: Europe
+- Bio: Computer Science student
+- GitHub: [triebben](https://github.com/triebben)
