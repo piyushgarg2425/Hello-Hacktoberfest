@@ -18,6 +18,11 @@
 - Bio: Software developer
 - GitHub: [yogeshAgarwal](https://github.com/yogeshAgarwal)
 
+#### Name: [ashutosh](https://github.com/ashurockstar/)
+- Place: Pune, Maharastra
+- Bio: Software developer
+- GitHub: [iyfe](https://github.com/ashurockstar/)
+
 #### Name: [Tubelight](https://github.com/tubelight36)
 - Place: texas, USA
 - Bio: Software Engineer
