@@ -73,3 +73,9 @@
 - Place: São Paulo, Brazil
 - Bio: Hi! Software Engineer.
 - GitHub: [dalcin](https://github.com/dalcinj)
+
+#### Name: [Theja L](https://github.com/zetol)
+- Place: Allahabad, India
+- Bio: MTech CSE student
+- GitHub: [zetol](https://github.com/zetol)
+
