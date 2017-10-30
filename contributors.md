@@ -63,7 +63,13 @@
 - Bio: Software Engineer
 - GitHub: [Githuber](https://github.com/foreverGithub)
 
+
 #### Name: [triebben](https://github.com/triebben)
 - Place: Europe
 - Bio: Computer Science student
 - GitHub: [triebben](https://github.com/triebben)
+
+#### Name: [Jhonston Dalcin](https://github.com/dalcinj)
+- Place: São Paulo, Brazil
+- Bio: Hi! Software Engineer.
+- GitHub: [dalcin](https://github.com/dalcinj)
