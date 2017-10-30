@@ -63,7 +63,6 @@
 - Bio: Software Engineer
 - GitHub: [Githuber](https://github.com/foreverGithub)
 
-
 #### Name: [triebben](https://github.com/triebben)
 - Place: Europe
 - Bio: Computer Science student
@@ -73,3 +72,8 @@
 - Place: São Paulo, Brazil
 - Bio: Hi! Software Engineer.
 - GitHub: [dalcin](https://github.com/dalcinj)
+
+#### Name: [Eilidh Martin](https://github.com/hmmmmmmm)
+- Place: Glasgow, Scotland
+- Bio: Student learning computer science
+- GitHub: [hmmmmmmm](https://github.com/hmmmmmmm)
