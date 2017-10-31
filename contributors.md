@@ -138,3 +138,7 @@
 - Bio: A little bit of everything
 - Github: [LeronCulbreath](https://github.com/LeronCulbreath)
 
+#### Name: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+- Place: Kuliyapitiya, Kurunegala, Sri Lanka
+- Bio: Software engineer
+- GitHub: [ThamiduNaveen](https://github.com/ThamiduNaveen)
