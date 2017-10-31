@@ -1,4 +1,4 @@
-﻿#### Name: [Akshat Sinha](https://github.com/akshatgit)
+#### Name: [Akshat Sinha](https://github.com/akshatgit)
 - Place: New Delhi, Delhi, India
 - Bio: DevOps engineer
 - GitHub: [akshatgit](https://github.com/akshatgit)
@@ -118,11 +118,6 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
-#### Name: [Sullivan Nolan](https://github.com/nolakat)
-- Place: Pittsburgh, PA, USA
-- Bio: Digital Designer
-- GitHub: [nolakat](https://github.com/nolakat)
-
 #### Name: [David Pate](https://github.com/DavidTPate)
 - Place: Florida, USA
 - Bio: I have the best Bio
@@ -152,3 +147,8 @@
 - Place: Kuliyapitiya, Kurunegala, Sri Lanka
 - Bio: Software engineer
 - GitHub: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+
+#### Name: [JatinRajani](https://github.com/jatinrajani)
+- Place: NewDelhi,India
+- Bio: MachineLearner
+- GitHub: [JatinRajani](https://github.com/jatinrajani)
