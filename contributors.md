@@ -118,4 +118,9 @@
 - Place: Bangalore, India
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
+#### Name: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+- Place: Kuliyapitiya, Kurunegala, Sri Lanka
+- Bio: Software engineer
+- GitHub: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+
 
