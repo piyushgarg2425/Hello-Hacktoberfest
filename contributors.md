@@ -79,8 +79,12 @@
 - Bio: Hi! Software Engineer.
 - GitHub: [dalcin](https://github.com/dalcinj)
 
+#### Name: [Sanushen Govender](https://github.com/sanushen)
+- Place: Johannesburg, Gauteng, South Africa
+- Bio: Software Developer
+- GitHub: [sanushen](https://github.com/sanushen)
+
 #### Name: [Theja L](https://github.com/zetol)
 - Place: Allahabad, India
 - Bio: MTech CSE student
 - GitHub: [zetol](https://github.com/zetol)
-
