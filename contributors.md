@@ -18,6 +18,11 @@
 - Bio: Software developer
 - GitHub: [yogeshAgarwal](https://github.com/yogeshAgarwal)
 
+#### Name: [ashutosh](https://github.com/ashurockstar/)
+- Place: Pune, Maharastra
+- Bio: Software developer
+- GitHub: [iyfe](https://github.com/ashurockstar/)
+
 #### Name: [Tubelight](https://github.com/tubelight36)
 - Place: texas, USA
 - Bio: Software Engineer
@@ -78,3 +83,8 @@
 - Place: Johannesburg, Gauteng, South Africa
 - Bio: Software Developer
 - GitHub: [sanushen](https://github.com/sanushen)
+
+#### Name: [Theja L](https://github.com/zetol)
+- Place: Allahabad, India
+- Bio: MTech CSE student
+- GitHub: [zetol](https://github.com/zetol)
