@@ -119,3 +119,8 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Carlos Carvalho](https://github.com/chcdc)
+- Place: Paraná, Brazil
+- Bio: DevOps
+- Github: [chcdc](https://github.com/chcdc)
+
