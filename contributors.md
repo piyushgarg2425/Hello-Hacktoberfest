@@ -1,4 +1,4 @@
-#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
+﻿#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
 - Place: são paulo, Brazil
 - Bio: mecatronic student
 - GitHub: [joaoguazzelli](https://github.com/joaoguazzelli)
@@ -207,3 +207,13 @@
 - Place: Noida,Uttar Pradesh, India
 - Bio: Informatiion Technology Student
 - GitHub: [rv0001](https://github.com/rv0001)
+
+#### Name: [Rajat Gupta](https://github.com/Rajat2712)
+- Place: Delhi, India
+- Bio: Informatiion Technology Student
+- GitHub: [Rajat2712](https://github.com/Rajat2712)
+
+#### Name: [Ewerton Queiroz](https://github.com/EwertonQueiroz)
+- Place: Recife, Pernambuco, Brazil
+- Bio: Undergraduate student
+- GitHub: [EwertonQueiroz](https://github.com/EwertonQueiroz)

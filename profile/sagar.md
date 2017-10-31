@@ -1,5 +1,5 @@
-# Sagar Panta
+# SANCHIT GARG
 
 ### Location
-Nepal/Chitwan
-[Sagar Panta](https://github.com/sagar2s/Hello-Hacktoberfest)
+NOIDA/INDIA
+[Sanchit Garg](https://github.com/sanchit2812/Hello-Hacktoberfest)
