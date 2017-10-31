@@ -8,9 +8,9 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
 #### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+- Place: NOIDA, INDIA
+- Bio: DON
+- GitHub:" https://github.com/pypypraful"(GitHub link)
 ```
 
 ### 2. Add a profile page
