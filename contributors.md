@@ -123,6 +123,11 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Pranav Vardia](https://github.com/pranavvardia)
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science student
+- GitHub: [pranavvardia](https://github.com/pranavvardia)
+
 #### Name: [Matt Schlenker](https://github.com/m4ttsch)
 - Place: New York, NY, USA
 - Bio: Software Developer in NYC
