@@ -1,3 +1,8 @@
+#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
+- Place: são paulo, Brazil
+- Bio: mecatronic student
+- GitHub: [joaoguazzelli](https://github.com/joaoguazzelli)
+
 #### Name: [Akshat Sinha](https://github.com/akshatgit)
 - Place: New Delhi, Delhi, India
 - Bio: DevOps engineer
