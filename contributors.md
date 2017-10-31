@@ -8,6 +8,11 @@
 - Bio: Software developer
 - GitHub: [Daniel-GabrielN](https://github.com/Daniel-GabrielN)
 
+#### Name: [Kushagra-Mangal](https://github.com/kushmangal)
+- Place: Chennai, India
+- Bio: Software developer
+- GitHub: [Kushagra-Mangal](https://github.com/kushmangal)
+
 #### Name: [Arjun](https://github.com/15bcs021)
 - Place: Birmingham, West Midlands, United Kingdom
 - Bio: Software developer
