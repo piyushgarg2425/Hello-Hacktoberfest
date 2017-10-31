@@ -203,6 +203,11 @@
 - Bio: Informatiion Technology Student
 - GitHub: [Saket-Komawar](https://github.com/Saket-Komawar)
 
+#### Name: [Rishabh Verma](https://github.com/rv0001)
+- Place: Noida,Uttar Pradesh, India
+- Bio: Informatiion Technology Student
+- GitHub: [rv0001](https://github.com/rv0001)
+
 #### Name: [Rajat Gupta](https://github.com/Rajat2712)
 - Place: Delhi, India
 - Bio: Informatiion Technology Student
