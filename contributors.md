@@ -132,3 +132,8 @@
 - Place: Aspach, Baden-Württemberg, Germany
 - Bio: Informatik Student
 - GitHub: [felunaix](https://github.com/felunaix)
+
+#### Name: [Blueskyes](https://github.com/Blueskyes)
+- Place: Texas, USA
+- Bio: Student
+- Github: [Blueskyes](https://github.com/Blueskyes)
