@@ -136,7 +136,6 @@
 #### Name: [Vishesh Ruparelia](https://github.com/visheshruparelia)
 - Place: Bangalore,India
 - Bio: CSE
-
 - GitHub: [visheshruparelia](https://github.com/visheshruparelia)
 
 #### Name: [Pranav Vardia](https://github.com/pranavvardia)
@@ -146,7 +145,6 @@
 
 #### Name: [Matt Schlenker](https://github.com/m4ttsch)
 - Place: New York, NY, USA
-
 - Bio: Software Developer in NYC
 - GitHub: [m4ttsch](https://github.com/m4ttsch)
 
@@ -194,7 +192,7 @@
 - Place: NewDelhi,India
 - Bio: MachineLearner
 - GitHub: [JatinRajani](https://github.com/jatinrajani)
-=======
+
 #### Name: [Blueskyes](https://github.com/Blueskyes)
 - Place: Texas, USA
 - Bio: Student
@@ -209,3 +207,18 @@
 - Place: Siliguri, West Bengal, India
 - Bio: I am a 14 yr old student
 - GitHub: [@Nighthawk1210](www.github.com/nighthawk1210)
+
+#### Name: [Rishabh Verma](https://github.com/rv0001)
+- Place: Noida,Uttar Pradesh, India
+- Bio: Informatiion Technology Student
+- GitHub: [rv0001](https://github.com/rv0001)
+
+#### Name: [Rajat Gupta](https://github.com/Rajat2712)
+- Place: Delhi, India
+- Bio: Informatiion Technology Student
+- GitHub: [Rajat2712](https://github.com/Rajat2712)
+
+#### Name: [Ewerton Queiroz](https://github.com/EwertonQueiroz)
+- Place: Recife, Pernambuco, Brazil
+- Bio: Undergraduate student
+- GitHub: [EwertonQueiroz](https://github.com/EwertonQueiroz)
