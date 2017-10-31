@@ -119,3 +119,7 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Felix](https://github.com/felunaix)
+- Place: Aspach, Baden-Württemberg, Germany
+- Bio: Informatik Student
+- GitHub: [felunaix](https://github.com/felunaix)
