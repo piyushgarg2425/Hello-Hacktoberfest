@@ -1,3 +1,13 @@
+#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
+- Place: são paulo, Brazil
+- Bio: mecatronic student
+- GitHub: [joaoguazzelli](https://github.com/joaoguazzelli)
+
+#### Name: [Kumar Rohit Chandra](https://github.com/krrohitch)
+- Place : Noida, UP, India
+- Bio: Designer/Developer
+- Github: [krrohitch](https://github.com/krrohitch)
+
 #### Name: [Akshat Sinha](https://github.com/akshatgit)
 - Place: New Delhi, Delhi, India
 - Bio: DevOps engineer
@@ -118,6 +128,46 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Carlos Carvalho](https://github.com/chcdc)
+- Place: Paraná, Brazil
+- Bio: DevOps
+- Github: [chcdc](https://github.com/chcdc)
+
+#### Name: [Vishesh Ruparelia](https://github.com/visheshruparelia)
+- Place: Bangalore,India
+- Bio: CSE
+- GitHub: [visheshruparelia](https://github.com/visheshruparelia)
+
+#### Name: [Pranav Vardia](https://github.com/pranavvardia)
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science student
+- GitHub: [pranavvardia](https://github.com/pranavvardia)
+
+#### Name: [Matt Schlenker](https://github.com/m4ttsch)
+- Place: New York, NY, USA
+- Bio: Software Developer in NYC
+- GitHub: [m4ttsch](https://github.com/m4ttsch)
+
+#### Name: [Raman Maurya](https://github.com/rmaurya757)
+- Place: Lucknow, India
+- Bio: UIET IT student
+- Github: [rmaurya757](https://github.com/rmaurya757)
+
+#### Name: [Sullivan Nolan](https://github.com/nolakat)
+- Place: Pittsburgh, PA, USA
+- Bio: Digital Designer
+- GitHub: [nolakat](https://github.com/nolakat)
+
+#### Name: [David Pate](https://github.com/DavidTPate)
+- Place: Florida, USA
+- Bio: I have the best Bio
+- Github: [DavidTPate](https://github.com/DavidTPate)
+
+#### Name: [Nodcah](https://github.com/nodcah)
+- Place: Storrs, CT, USA
+- Bio: UConn CSE Student
+- Github: [Nodcah](https://github.com/nodcah)
+
 #### Name: [Akshay Sharma](https://github.com/akshaysharma2277)
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a CSE student.
@@ -128,7 +178,23 @@
 - Bio: Informatik Student
 - GitHub: [felunaix](https://github.com/felunaix)
 
+#### Name: [Leron Culbreath](https://github.com/LeronCulbreath)
+- Place: Virginia, US
+- Bio: A little bit of everything
+- Github: [LeronCulbreath](https://github.com/LeronCulbreath)
+
+#### Name: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+- Place: Kuliyapitiya, Kurunegala, Sri Lanka
+- Bio: Software engineer
+- GitHub: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+
+#### Name: [Blueskyes](https://github.com/Blueskyes)
+- Place: Texas, USA
+- Bio: Student
+- Github: [Blueskyes](https://github.com/Blueskyes)
+
 #### Name: [Saket Komawar](https://github.com/Saket-Komawar)
 - Place: Pune, Maharashtra, India
 - Bio: Informatiion Technology Student
 - GitHub: [Saket-Komawar](https://github.com/Saket-Komawar)
+
