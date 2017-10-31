@@ -203,6 +203,11 @@
 - Bio: Informatiion Technology Student
 - GitHub: [Saket-Komawar](https://github.com/Saket-Komawar)
 
+#### Name: [Rajat Gupta](https://github.com/Rajat2712)
+- Place: Delhi, India
+- Bio: Informatiion Technology Student
+- GitHub: [Rajat2712](https://github.com/Rajat2712)
+
 #### Name: [Ewerton Queiroz](https://github.com/EwertonQueiroz)
 - Place: Recife, Pernambuco, Brazil
 - Bio: Undergraduate student
