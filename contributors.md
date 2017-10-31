@@ -97,3 +97,8 @@
 - Place: Allahabad, India
 - Bio: MTech CSE student
 - GitHub: [zetol](https://github.com/zetol)
+
+#### Name: [SpiderMan](https://github.com/SpiderManAvanger)
+- Place: India
+- Bio: Computer Engineer Department
+- GitHub: [Spidey](https://github.com/zetol)
