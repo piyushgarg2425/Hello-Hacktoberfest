@@ -118,6 +118,11 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Nodcah](https://github.com/nodcah)
+- Place: Storrs, CT, USA
+- Bio: UConn CSE Student
+- Github: [Nodcah](https://github.com/nodcah)
+
 #### Name: [Akshay Sharma](https://github.com/akshaysharma2277)
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a CSE student.
