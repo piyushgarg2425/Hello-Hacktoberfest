@@ -1,4 +1,4 @@
-#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
+﻿#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
 - Place: são paulo, Brazil
 - Bio: mecatronic student
 - GitHub: [joaoguazzelli](https://github.com/joaoguazzelli)
@@ -202,3 +202,8 @@
 - Place: Pune, Maharashtra, India
 - Bio: Informatiion Technology Student
 - GitHub: [Saket-Komawar](https://github.com/Saket-Komawar)
+
+#### Name: [Ewerton Queiroz](https://github.com/EwertonQueiroz)
+- Place: Recife, Pernambuco, Brazil
+- Bio: Undergraduate student
+- GitHub: [EwertonQueiroz](https://github.com/EwertonQueiroz)
