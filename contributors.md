@@ -1,3 +1,8 @@
+#### Name: [Kumar Rohit Chandra](https://github.com/krrohitch)
+- Place : Noida, UP, India
+- Bio: Designer/Developer
+- Github: [krrohitch](https://github.com/krrohitch)
+
 #### Name: [Akshat Sinha](https://github.com/akshatgit)
 - Place: New Delhi, Delhi, India
 - Bio: DevOps engineer
@@ -103,9 +108,8 @@
 - Bio: MTech CSE student
 - GitHub: [zetol](https://github.com/zetol)
 
-
 #### Name: [SpiderMan](https://github.com/SpiderManAvanger)
-- Place: India
+- Place: Mumbai,India
 - Bio: Computer Engineer Department
 - GitHub: [Spidey](https://github.com/SpiderManAvanger)
 
@@ -123,3 +127,43 @@
 - Place: New York, NY, USA
 - Bio: Software Developer in NYC
 - GitHub: [m4ttsch](https://github.com/m4ttsch)
+
+#### Name: [Raman Maurya](https://github.com/rmaurya757)
+- Place: Lucknow, India
+- Bio: UIET IT student
+- Github: [rmaurya757](https://github.com/rmaurya757)
+
+#### Name: [Sullivan Nolan](https://github.com/nolakat)
+- Place: Pittsburgh, PA, USA
+- Bio: Digital Designer
+- GitHub: [nolakat](https://github.com/nolakat)
+
+#### Name: [David Pate](https://github.com/DavidTPate)
+- Place: Florida, USA
+- Bio: I have the best Bio
+- Github: [DavidTPate](https://github.com/DavidTPate)
+
+#### Name: [Nodcah](https://github.com/nodcah)
+- Place: Storrs, CT, USA
+- Bio: UConn CSE Student
+- Github: [Nodcah](https://github.com/nodcah)
+
+#### Name: [Akshay Sharma](https://github.com/akshaysharma2277)
+- Place: Jaipur, Rajasthan, India
+- Bio: I am a CSE student.
+- GitHub: [akshaysharma2277](https://github.com/akshaysharma2277)
+
+#### Name: [Felix](https://github.com/felunaix)
+- Place: Aspach, Baden-Württemberg, Germany
+- Bio: Informatik Student
+- GitHub: [felunaix](https://github.com/felunaix)
+
+#### Name: [Leron Culbreath](https://github.com/LeronCulbreath)
+- Place: Virginia, US
+- Bio: A little bit of everything
+- Github: [LeronCulbreath](https://github.com/LeronCulbreath)
+
+#### Name: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+- Place: Kuliyapitiya, Kurunegala, Sri Lanka
+- Bio: Software engineer
+- GitHub: [ThamiduNaveen](https://github.com/ThamiduNaveen)
