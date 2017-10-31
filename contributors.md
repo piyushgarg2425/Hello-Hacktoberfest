@@ -119,3 +119,7 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Matt Schlenker](https://github.com/m4ttsch)
+- Place: New York, NY, USA
+- Bio: Software Developer in NYC
+- GitHub: [m4ttsch](https://github.com/m4ttsch)
