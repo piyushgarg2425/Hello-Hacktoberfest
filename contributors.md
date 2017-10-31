@@ -222,3 +222,8 @@
 - Place: Recife, Pernambuco, Brazil
 - Bio: Undergraduate student
 - GitHub: [EwertonQueiroz](https://github.com/EwertonQueiroz)
+
+#### Name: [Frank Garcia](https://github.com/FrankGarcia305)
+- Place: Gainesville, Florida
+- Bio: Undergraduate Student at the University of Florida
+- Github: [FrankGarcia305](https://github.com/FrankGarcia305)
