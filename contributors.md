@@ -97,3 +97,8 @@
 - Place: Allahabad, India
 - Bio: MTech CSE student
 - GitHub: [zetol](https://github.com/zetol)
+
+#### Name: [Rafael Neri](https://github.com/rafael-neri)
+- Place: Ceará, Brazil
+- Bio: Software Developer
+- GitHub: [rafael-neri](https://github.com/rafael-neri)
