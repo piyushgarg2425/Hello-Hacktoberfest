@@ -102,3 +102,8 @@
 - Place: Allahabad, India
 - Bio: MTech CSE student
 - GitHub: [zetol](https://github.com/zetol)
+
+#### Name: [Sudharsanaraj R](https://github.com/jujusudhur)
+- Place: Bangalore, India
+- Bio: iMtech ECE student
+- Github: [jujusudhur](https://github.com/jujusudhur)
