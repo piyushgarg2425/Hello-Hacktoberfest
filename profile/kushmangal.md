@@ -1,19 +1,20 @@
-Shivvrat Arya
+Kushagra Mangal
 
 Location
 Indore/India
 
 Academics
-Indian Institute of Information Technology, Vadodara
+SRM University, Chennai
 
 Interests
 Android Programming
 Playing Table Tennis
 Playing video games
 Reading novels
+Watching Anime
 
 Development
-Investocafe, chess etc
+Football,chess etc
 
 Profile Link
-https://github.com/Shivvrat
+https://github.com/kush_mangal

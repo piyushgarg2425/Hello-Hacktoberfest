@@ -8,6 +8,11 @@
 - Bio: Software developer
 - GitHub: [Daniel-GabrielN](https://github.com/Daniel-GabrielN)
 
+#### Name: [Kushagra-Mangal](https://github.com/kushmangal)
+- Place: Chennai, India
+- Bio: Software developer
+- GitHub: [Kushagra-Mangal](https://github.com/kushmangal)
+
 #### Name: [Arjun](https://github.com/15bcs021)
 - Place: Birmingham, West Midlands, United Kingdom
 - Bio: Software developer
@@ -17,6 +22,11 @@
 - Place: Ringus, Rajasthan, India
 - Bio: Software developer
 - GitHub: [yogeshAgarwal](https://github.com/yogeshAgarwal)
+
+#### Name: [ashutosh](https://github.com/ashurockstar/)
+- Place: Pune, Maharastra
+- Bio: Software developer
+- GitHub: [iyfe](https://github.com/ashurockstar/)
 
 #### Name: [Tubelight](https://github.com/tubelight36)
 - Place: texas, USA
@@ -77,3 +87,13 @@
 - Place: Glasgow, Scotland
 - Bio: Student learning computer science
 - GitHub: [hmmmmmmm](https://github.com/hmmmmmmm)
+
+#### Name: [Sanushen Govender](https://github.com/sanushen)
+- Place: Johannesburg, Gauteng, South Africa
+- Bio: Software Developer
+- GitHub: [sanushen](https://github.com/sanushen)
+
+#### Name: [Theja L](https://github.com/zetol)
+- Place: Allahabad, India
+- Bio: MTech CSE student
+- GitHub: [zetol](https://github.com/zetol)
