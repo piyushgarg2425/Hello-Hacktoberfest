@@ -119,3 +119,7 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [David Pate](https://github.com/DavidTPate)
+- Place: Florida, USA
+- Bio: I have the best Bio
+- Github: [DavidTPate](https://github.com/DavidTPate)
