@@ -119,3 +119,7 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Pranav Vardia](https://github.com/pranavvardia)
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science student
+- GitHub: [pranavvardia](https://github.com/pranavvardia)
