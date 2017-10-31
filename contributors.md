@@ -103,6 +103,12 @@
 - Bio: MTech CSE student
 - GitHub: [zetol](https://github.com/zetol)
 
+
+#### Name: [SpiderMan](https://github.com/SpiderManAvanger)
+- Place: India
+- Bio: Computer Engineer Department
+- GitHub: [Spidey](https://github.com/SpiderManAvanger)
+
 #### Name: [Rafael Neri](https://github.com/rafael-neri)
 - Place: Ceará, Brazil
 - Bio: Software Developer
@@ -112,3 +118,4 @@
 - Place: Bangalore, India
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
+
