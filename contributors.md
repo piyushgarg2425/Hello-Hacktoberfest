@@ -1,4 +1,4 @@
-﻿#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
+#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
 - Place: são paulo, Brazil
 - Bio: mecatronic student
 - GitHub: [joaoguazzelli](https://github.com/joaoguazzelli)
@@ -192,7 +192,7 @@
 - Place: NewDelhi,India
 - Bio: MachineLearner
 - GitHub: [JatinRajani](https://github.com/jatinrajani)
-=======
+
 #### Name: [Blueskyes](https://github.com/Blueskyes)
 - Place: Texas, USA
 - Bio: Student
@@ -202,6 +202,11 @@
 - Place: Pune, Maharashtra, India
 - Bio: Informatiion Technology Student
 - GitHub: [Saket-Komawar](https://github.com/Saket-Komawar)
+
+#### Name: [Sthitadhi Mutsuddy](www.github.com/nighthawk1210)
+- Place: Siliguri, West Bengal, India
+- Bio: I am a 14 yr old student
+- GitHub: [@Nighthawk1210](www.github.com/nighthawk1210)
 
 #### Name: [Rishabh Verma](https://github.com/rv0001)
 - Place: Noida,Uttar Pradesh, India
