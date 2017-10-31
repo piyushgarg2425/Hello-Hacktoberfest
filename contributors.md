@@ -103,9 +103,8 @@
 - Bio: MTech CSE student
 - GitHub: [zetol](https://github.com/zetol)
 
-
 #### Name: [SpiderMan](https://github.com/SpiderManAvanger)
-- Place: India
+- Place: Mumbai,India
 - Bio: Computer Engineer Department
 - GitHub: [Spidey](https://github.com/SpiderManAvanger)
 
@@ -123,3 +122,8 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a CSE student.
 - GitHub: [akshaysharma2277](https://github.com/akshaysharma2277)
+
+#### Name: [Felix](https://github.com/felunaix)
+- Place: Aspach, Baden-Württemberg, Germany
+- Bio: Informatik Student
+- GitHub: [felunaix](https://github.com/felunaix)
