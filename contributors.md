@@ -1,3 +1,8 @@
+#### Name: [Akshat Sinha](https://github.com/akshatgit)
+- Place: New Delhi, Delhi, India
+- Bio: DevOps engineer
+- GitHub: [akshatgit](https://github.com/akshatgit)
+
 #### Name: [Ifunanya Ukachukwu](https://github.com/iyfe)
 - Place: New Haven, CT, USA
 - Bio: Software developer
@@ -102,3 +107,8 @@
 - Place: Ceará, Brazil
 - Bio: Software Developer
 - GitHub: [rafael-neri](https://github.com/rafael-neri)
+
+#### Name: [Sudharsanaraj R](https://github.com/jujusudhur)
+- Place: Bangalore, India
+- Bio: iMtech ECE student
+- Github: [jujusudhur](https://github.com/jujusudhur)
