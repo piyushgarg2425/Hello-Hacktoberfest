@@ -118,11 +118,6 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
-#### Name: [Nodcah](https://github.com/nodcah)
-- Place: Storrs, CT, USA
-- Bio: UConn CSE Student
-- Github: [Nodcah](https://github.com/nodcah)
-
 #### Name: [Akshay Sharma](https://github.com/akshaysharma2277)
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a CSE student.
@@ -132,3 +127,8 @@
 - Place: Aspach, Baden-Württemberg, Germany
 - Bio: Informatik Student
 - GitHub: [felunaix](https://github.com/felunaix)
+
+#### Name: [Saket Komawar](https://github.com/Saket-Komawar)
+- Place: Pune, Maharashtra, India
+- Bio: Informatiion Technology Student
+- GitHub: [Saket-Komawar](https://github.com/Saket-Komawar)
