@@ -123,6 +123,11 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Vishesh Ruparelia](https://github.com/visheshruparelia)
+- Place: Bangalore,India
+- Bio: CSE
+- GitHub: [visheshruparelia](https://github.com/visheshruparelia)
+
 #### Name: [Pranav Vardia](https://github.com/pranavvardia)
 - Place: Bangalore, Karnataka, India
 - Bio: Computer Science student
