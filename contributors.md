@@ -119,3 +119,7 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Nodcah](https://github.com/nodcah)
+- Place: Storrs, CT, USA
+- Bio: UConn CSE Student
+- Github: [Nodcah](https://github.com/nodcah)
