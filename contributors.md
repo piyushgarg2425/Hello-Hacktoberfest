@@ -188,6 +188,11 @@
 - Bio: Software engineer
 - GitHub: [ThamiduNaveen](https://github.com/ThamiduNaveen)
 
+#### Name: [JatinRajani](https://github.com/jatinrajani)
+- Place: NewDelhi,India
+- Bio: MachineLearner
+- GitHub: [JatinRajani](https://github.com/jatinrajani)
+=======
 #### Name: [Blueskyes](https://github.com/Blueskyes)
 - Place: Texas, USA
 - Bio: Student
@@ -197,4 +202,3 @@
 - Place: Pune, Maharashtra, India
 - Bio: Informatiion Technology Student
 - GitHub: [Saket-Komawar](https://github.com/Saket-Komawar)
-
