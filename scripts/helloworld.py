@@ -1,2 +1,2 @@
 # to print Hello Halloween
-print("Hello Halloween")
+print("Happy Halloween")
