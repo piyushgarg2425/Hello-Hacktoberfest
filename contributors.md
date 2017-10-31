@@ -1,3 +1,8 @@
+#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
+- Place: são paulo, Brazil
+- Bio: mecatronic student
+- GitHub: [joaoguazzelli](https://github.com/joaoguazzelli)
+
 #### Name: [Kumar Rohit Chandra](https://github.com/krrohitch)
 - Place : Noida, UP, India
 - Bio: Designer/Developer
