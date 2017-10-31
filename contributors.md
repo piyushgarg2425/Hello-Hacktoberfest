@@ -119,3 +119,7 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Akshay Sharma](https://github.com/akshaysharma2277)
+- Place: Jaipur, Rajasthan, India
+- Bio: I am a CSE student.
+- GitHub: [akshaysharma2277](https://github.com/akshaysharma2277)
