@@ -1,3 +1,8 @@
+#### Name: [Kumar Rohit Chandra](https://github.com/krrohitch)
+- Place : Noida, UP, India
+- Bio: Designer/Developer
+- Github: [krrohitch](https://github.com/krrohitch)
+
 #### Name: [Akshat Sinha](https://github.com/akshatgit)
 - Place: New Delhi, Delhi, India
 - Bio: DevOps engineer
