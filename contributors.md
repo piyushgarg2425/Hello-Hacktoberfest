@@ -105,7 +105,7 @@
 
 
 #### Name: [SpiderMan](https://github.com/SpiderManAvanger)
-- Place: India
+- Place: Mumbai,India
 - Bio: Computer Engineer Department
 - GitHub: [Spidey](https://github.com/SpiderManAvanger)
 
@@ -119,8 +119,8 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+
 #### Name: [Carlos Carvalho](https://github.com/chcdc)
 - Place: Paraná, Brazil
 - Bio: DevOps
 - Github: [chcdc](https://github.com/chcdc)
-
