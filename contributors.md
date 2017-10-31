@@ -136,6 +136,7 @@
 #### Name: [Vishesh Ruparelia](https://github.com/visheshruparelia)
 - Place: Bangalore,India
 - Bio: CSE
+
 - GitHub: [visheshruparelia](https://github.com/visheshruparelia)
 
 #### Name: [Pranav Vardia](https://github.com/pranavvardia)
@@ -145,6 +146,7 @@
 
 #### Name: [Matt Schlenker](https://github.com/m4ttsch)
 - Place: New York, NY, USA
+
 - Bio: Software Developer in NYC
 - GitHub: [m4ttsch](https://github.com/m4ttsch)
 
@@ -202,3 +204,8 @@
 - Place: Pune, Maharashtra, India
 - Bio: Informatiion Technology Student
 - GitHub: [Saket-Komawar](https://github.com/Saket-Komawar)
+
+#### Name: [Sthitadhi Mutsuddy](www.github.com/nighthawk1210)
+- Place: Siliguri, West Bengal, India
+- Bio: I am a 14 yr old student
+- GitHub: [@Nighthawk1210](www.github.com/nighthawk1210)
