@@ -1,0 +1,9 @@
+// LANGUAGE: LOLCODE
+// ENV: LOLCODE
+// AUTHOR: David Pate
+// GITHUB: https://github.com/davidtpate
+
+HAI 1.2
+  CAN HAS STDIO?
+  VISIBLE "HAI WORLD!!!1!"
+KTHXBYE
