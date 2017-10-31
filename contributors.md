@@ -123,6 +123,11 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Raman Maurya](https://github.com/rmaurya757)
+- Place: Lucknow, India
+- Bio: UIET IT student
+- Github: [rmaurya757](https://github.com/rmaurya757)
+
 #### Name: [Sullivan Nolan](https://github.com/nolakat)
 - Place: Pittsburgh, PA, USA
 - Bio: Digital Designer
