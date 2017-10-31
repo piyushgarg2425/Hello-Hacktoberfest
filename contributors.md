@@ -132,3 +132,9 @@
 - Place: Aspach, Baden-Württemberg, Germany
 - Bio: Informatik Student
 - GitHub: [felunaix](https://github.com/felunaix)
+
+#### Name: [Leron Culbreath](https://github.com/LeronCulbreath)
+- Place: Virginia, US
+- Bio: A little bit of everything
+- Github: [LeronCulbreath](https://github.com/LeronCulbreath)
+
